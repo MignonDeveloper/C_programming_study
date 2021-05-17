@@ -1,6 +1,13 @@
 # Repository for C Programming Study with Book
 
-#### Chapter
+### Purpose of This Note
+- Studying C-Language by Book & Lecture
+- Make my own C-Programming sheet that I can check whenever I need.
+- Continue to update once new knowledge is available
+
+<br>
+
+### Chapter
 
 1. Introduction to C Programming
 2. Data Type
